@@ -1,17 +1,23 @@
-# SNL
+# SNL 	:soccer:
 
 SNL je prva slovenska nogometna liga.
 
-## OPIS
+![This is an image]
 
-Aplikacija omogoča vpogled v vse klube ter lokacije njihovih stadionov.
-Omogoča prikaz vseh igralcev posameznega kluba in urejanje ekip ter obvestila, kdaj potekajo tekme.
+## OPIS :pencil2:
 
-## TEHNOLOGIJE
+Aplikacija vam omogoča: 
+- vpogled v vse klube
+- lokacije stadionov
+- vpogled v igralce
+- urejanje ekip
+- obvestila o tekmah
 
-Uporabil bi Map ter Location tehnologije
+## TEHNOLOGIJE 
 
-## AVTOR
+Uporabil bi Map ter Location tehnologije.
+
+### AVTOR
 
 Miha Tomšič
  
