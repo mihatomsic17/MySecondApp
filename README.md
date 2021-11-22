@@ -2,8 +2,6 @@
 
 SNL je prva slovenska nogometna liga.
 
-![This is an image]
-
 ## OPIS :pencil2:
 
 Aplikacija vam omogoča: 
